@@ -1,6 +1,6 @@
 #!/bin/bash
 
-name=$RANDOM
+name='Lev'
 url='http://localhost:9093/api/v1/alerts'
 
 echo "firing up alert $name" 
